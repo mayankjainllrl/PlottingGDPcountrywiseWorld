@@ -1,0 +1,12 @@
+cairocffi==1.1.0
+CairoSVG==2.4.2
+cffi==1.14.2
+cssselect2==0.3.0
+defusedxml==0.6.0
+lxml==4.5.2
+Pillow==7.2.0
+pycparser==2.20
+pygal==2.4.0
+pygal-maps-world==1.0.2
+tinycss2==1.0.2
+webencodings==0.5.1
